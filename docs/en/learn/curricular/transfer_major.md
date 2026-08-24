@@ -20,6 +20,8 @@ The latest version of the major transfer guide is: [SCUT Major Transfer Guide (2
 ## Experience Sharing
 
 - [Transferring to Electrical Engineering (2026)](./transfer_major_electrical_2026) (Author: Cui) -- Interview preparation and common questions for transferring to the School of Electric Power (Electrical Engineering and Its Automation)
+- [Transferring to Information Engineering (2026)](/learn/curricular/transfer_major_information_engineering_fish_2026) (Author: orz, article in Chinese) -- Major choice trade-offs, written exam and interview process, and a preparation timeline for the School of Electronic and Information Engineering
+- [Transferring to Mechanical Engineering (2026)](/learn/curricular/transfer_major_mechanical_fish_2026) (Author: fish152363, article in Chinese) -- Admission statistics, interview-only assessment, and common interview questions for the School of Mechanical and Automotive Engineering
 
 ## Community Platforms
 

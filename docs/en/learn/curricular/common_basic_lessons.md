@@ -86,7 +86,7 @@ This course is generally taken in the second semester by engineering and science
 **Study Materials**
 
 - SCUT Probability Notes: [Probability Theory and Mathematical Statistics Handwritten Notes](./common/probalistics_and_statistics/plt_note.md)
-- Interactive Visualization Tool: [Probability Distribution Gallery](./common/probalistics_and_statistics/distribution_gallery.md)
+- Interactive Visualization Tool: [Probability Distribution Gallery](https://yizhengarcanelec.github.io/probability-statistics-function-gallery/) (if the network is unreliable, use the [on-site backup version](./common/probalistics_and_statistics/distribution_gallery.md))
 
 TODO: Improve the course description and study materials for Probability:
 

@@ -3,7 +3,7 @@ lang: zh-CN
 title: 转信工经验分享（2026）
 description: 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
 date: 2026-07-26
-author: fish152363
+author: orz
 sidebarDepth: 2
 ---
 

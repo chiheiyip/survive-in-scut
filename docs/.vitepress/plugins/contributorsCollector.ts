@@ -8,6 +8,7 @@ const CONTRIBUTOR_ALIASES: Record<string, string> = {
   rankozumi: "Kozumi",
   Kozmosa: "Kozumi",
   "Yuyun Chen": "Rotioki",
+  fish152363: "Fish.",
 };
 
 const EXCLUDED_DIRECTORIES = new Set([
